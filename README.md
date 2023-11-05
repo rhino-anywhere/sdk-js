@@ -1,4 +1,4 @@
-# rhino-anywhere-frontend
+# Javascript SDK
 ---
 
 ## About the Project
@@ -15,6 +15,7 @@ The sdk is intended to be used in conjunction with your UI of choice and the Rhi
 ```
 // HTML Video element reference
 var viewport = document.getElementById("rhinoViewport");
+
 // RhinoAnywhere Websocket link
 var link = "ws://127.0.0.1:8081/" 
 
