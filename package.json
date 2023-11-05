@@ -1,5 +1,5 @@
 {
-  "name": "sdk-js",
+  "name": "@rhino-anywhere/sdk-js",
   "version": "0.1.0",
   "description": "Javascript Library for connecting to RhinoAnywhere",
   "main": "index.js",
